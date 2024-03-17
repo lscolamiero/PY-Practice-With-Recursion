@@ -42,3 +42,6 @@ print(sum_n_product(54, 100))
 
 
 #7 arb_longest_string - Accepts any number of strings and returns the longest one.
+
+def manyKwargs(**kwargs):
+    return  
